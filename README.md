@@ -1,3 +1,2 @@
 # leetcode
-----------
 My leetcode solutions.
